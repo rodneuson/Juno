@@ -1,0 +1,8 @@
+br\com\bb\Models\Product.class
+br\com\bb\Service\CategoryService.class
+br\com\bb\Controllers\CategoryController.class
+br\com\bb\Controllers\ProductController.class
+br\com\bb\Service\ProductService.class
+br\com\bb\Models\Category.class
+br\com\bb\Repository\CategoryRepository.class
+br\com\bb\Repository\ProductRepository.class
