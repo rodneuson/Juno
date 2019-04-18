@@ -1,3 +1,9 @@
+## Obrigado!
+
+Apenas não realizei os desafios bônus.
+Fico no aguardo do feedback :)
+
+
 # Teste Prático (Back-end)
 
 Esta é uma aplicação que serve de base para avaliação de nossos candidatos.
